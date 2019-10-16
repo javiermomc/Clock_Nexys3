@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\ProySisDigAva\P18_Clock\Clock.ncd
+OUTFILE=C:\ProySisDigAva\P18_Clock\Clock.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\ProySisDigAva\P18_Clock
+LICENSE=WebPack
+USER_INFO=176089449_1777494614_0_810

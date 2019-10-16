@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/ProgSisDigAva/P18_Clock/Clock_tb_isim_beh.exe" -prj "C:/ProgSisDigAva/P18_Clock/Clock_tb_beh.prj" "work.Clock_tb" 

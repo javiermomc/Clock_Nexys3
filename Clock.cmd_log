@@ -1,0 +1,28 @@
+xst -intstyle ise -ifn "C:/ProySisDigAva/P18_Clock/Clock.xst" -ofn "C:/ProySisDigAva/P18_Clock/Clock.syr" 
+xst -intstyle ise -ifn "C:/ProySisDigAva/P18_Clock/Clock.xst" -ofn "C:/ProySisDigAva/P18_Clock/Clock.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Clock.ucf -p xc6slx16-csg324-3 Clock.ngc Clock.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Clock_map.ncd Clock.ngd Clock.pcf 
+par -w -intstyle ise -ol high -mt off Clock_map.ncd Clock.ncd Clock.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Clock.twx Clock.ncd -o Clock.twr Clock.pcf -ucf Clock.ucf 
+bitgen -intstyle ise -f Clock.ut Clock.ncd 
+xst -intstyle ise -ifn "C:/ProySisDigAva/P18_Clock/Clock.xst" -ofn "C:/ProySisDigAva/P18_Clock/Clock.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Clock.ucf -p xc6slx16-csg324-3 Clock.ngc Clock.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Clock_map.ncd Clock.ngd Clock.pcf 
+par -w -intstyle ise -ol high -mt off Clock_map.ncd Clock.ncd Clock.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Clock.twx Clock.ncd -o Clock.twr Clock.pcf -ucf Clock.ucf 
+bitgen -intstyle ise -f Clock.ut Clock.ncd 
+xst -intstyle ise -ifn "C:/ProySisDigAva/P18_Clock/Clock.xst" -ofn "C:/ProySisDigAva/P18_Clock/Clock.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Clock.ucf -p xc6slx16-csg324-3 Clock.ngc Clock.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Clock_map.ncd Clock.ngd Clock.pcf 
+par -w -intstyle ise -ol high -mt off Clock_map.ncd Clock.ncd Clock.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Clock.twx Clock.ncd -o Clock.twr Clock.pcf -ucf Clock.ucf 
+bitgen -intstyle ise -f Clock.ut Clock.ncd 
+xst -intstyle ise -ifn "C:/ProySisDigAva/P18_Clock/Clock.xst" -ofn "C:/ProySisDigAva/P18_Clock/Clock.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Clock.ucf -p xc6slx16-csg324-3 Clock.ngc Clock.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Clock_map.ncd Clock.ngd Clock.pcf 
+par -w -intstyle ise -ol high -mt off Clock_map.ncd Clock.ncd Clock.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Clock.ucf -p xc6slx16-csg324-3 Clock.ngc Clock.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Clock_map.ncd Clock.ngd Clock.pcf 
+par -w -intstyle ise -ol high -mt off Clock_map.ncd Clock.ncd Clock.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Clock.twx Clock.ncd -o Clock.twr Clock.pcf -ucf Clock.ucf 
+bitgen -intstyle ise -f Clock.ut Clock.ncd 
