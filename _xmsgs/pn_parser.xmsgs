@@ -8,34 +8,34 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/Clk1Hz.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/Clk1Hz.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/Clock.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/Clock.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/Cont0a23.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/Cont0a23.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/Cont0a3.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/Cont0a3.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/Cont0a5.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/Cont0a5.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/Cont0a9.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/Cont0a9.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/DecBCD7Seg.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/DecBCD7Seg.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/Mux4to1.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/Mux4to1.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/RefreshDisplay.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/RefreshDisplay.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/ProySisDigAva/P18_Clock/SelAnodo.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/JavierJr/Documents/ISD/AgoDic19/SistemasDigitalesAvanzados/Projects/P17_Clock/SelAnodo.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

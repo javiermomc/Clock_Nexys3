@@ -57,6 +57,9 @@
     <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="Clock_summary.xml"/>
     <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="Clock_usage.xml"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Clock_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DecBCD7Seg.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DecBCD7Seg.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DecBCD7Seg.xst"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
     <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
     <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
